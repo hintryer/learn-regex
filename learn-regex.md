@@ -1,7 +1,3 @@
-<br/>
-<p align="center">
-<img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
-</p><br/>
 
 ## 什么是正则表达式 ？
 
@@ -374,17 +370,5 @@
 * **日期（MM/DD/YYYY）**：`^(0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01])[- /.](19|20)?[0-9]{2}$`
 * **日期（YYYY/MM/DD）**：`^(19|20)?[0-9]{2}[- /.](0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01])$`
 * **万事达信用卡号码**：`^(5[1-5][0-9]{14})*$`
-
-## Contribution
-
-* Report issues
-* Open pull request with improvements
-* Spread the word 
-
-## License
-
-MIT © [Zeeshan Ahmed](mailto:ziishaned@gmail.com)
-
----
 
 **[⬆ top](#什么是正则表达式-)**
